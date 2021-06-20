@@ -38,3 +38,4 @@ class PostImagesController < ApplicationController
   end
 
 end
+
